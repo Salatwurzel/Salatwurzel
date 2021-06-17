@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Salatwurzel
-
-I'm a noob, just getting into programming. Nothing more to say for now.
+Just a random german beginner here.
 
 <!---
 Salatwurzel/Salatwurzel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
