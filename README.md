@@ -1,1 +1,1 @@
-Nothing more than a casual linux enthusiast
+Only a casual linux enthusiast
